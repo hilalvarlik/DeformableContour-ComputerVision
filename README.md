@@ -16,4 +16,6 @@ olur.<br/>
 Bu parametrelerin toplamının sıfıra yakın olması başarılı sonuç verir <br/>
 ---
 Burada tespit için ilk başlangıç değerlerinin seçimi önemlidir. <br/>
-Bu görüntü için `n = 500;  Xcenter =110;   Ycenter = 58;   r =10; mu = 2;` olacak şekilde seçilir.
+Bu görüntü için `n = 500;  Xcenter =110;   Ycenter = 58;   r =10; mu = 2;` olacak şekilde seçilir.<br/>
+
+![image](https://media.giphy.com/media/VYRyzTI3FpaBd4QgjN/giphy.gif)<br>
